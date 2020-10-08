@@ -1,0 +1,18 @@
+body {
+  background-image: url('background\ option\ 1.jpg');
+  background-size:100%;
+  background-repeat: no-repeat;
+}
+
+/* .main { 
+    min-width: 585px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    margin: 10px 10px 10px 10px;
+    border: 0.08em solid black;
+  }*/
+
+  .jumbotron {
+margin-top: 175px;
+  }
