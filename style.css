@@ -4,6 +4,12 @@ body {
   background-attachment: inherit;
   background-repeat: repeat;
 }
+.navbar{font-family: 'Fjalla One', sans-serif;
+}
+.display-4 {
+  font-family: 'Oswald', sans-serif;
+}
+
 /* index html */
   .jumbotron {
 margin-top: 175px;
@@ -15,18 +21,27 @@ margin-top: 175px;
     margin-top: 75px;
   }
 
-  .card-header{
-    font-weight: bold;
-    font-size: large;
+.card-header{
+    font-family: 'Oswald', sans-serif;
+    font-size: x-large;
   
   }
 
   input[type=text], select, textarea {
     width: 100%; 
     padding: 12px; 
-    border: 4px solid rgb(192, 91, 9); 
+    border: 4px solid #ffc4c2; 
     border-radius: 15px; 
     box-sizing: border-box; 
     margin-top: 6px; 
     margin-bottom: 16px; 
+  }
+
+
+  /* Portfolio html */
+
+  .container3{
+    margin-left: 50px;
+    margin-right: auto;
+    
   }
