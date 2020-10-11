@@ -5,15 +5,19 @@ body {
   background-repeat: repeat;
 }
 .navbar{font-family: 'Fjalla One', sans-serif;
+  font-size: x-large;
+  
 }
 .display-4 {
   font-family: 'Oswald', sans-serif;
 }
 
+
 /* index html */
   .jumbotron {
 margin-top: 175px;
   }
+
 
 /* contact html */
   .container{
@@ -30,7 +34,7 @@ margin-top: 175px;
   input[type=text], select, textarea {
     width: 100%; 
     padding: 12px; 
-    border: 4px solid #ffc4c2; 
+    border: 4px solid #C34C46; 
     border-radius: 15px; 
     box-sizing: border-box; 
     margin-top: 6px; 
@@ -43,5 +47,5 @@ margin-top: 175px;
   .container3{
     margin-left: 50px;
     margin-right: auto;
-    
+    margin-top: 25px
   }
