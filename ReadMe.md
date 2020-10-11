@@ -32,9 +32,9 @@ Create a portfolio with a navbar bar and responsive layout.
 -Must properly utilize Bootstrap components and grid system.
 
 # Example of Home Page
-![Home Page](./AboutMeCapture.jpg)
+![Home Page](./AboutMeCapture.JPG)
  # Example of Contact Page
- ![Contact Page](./ContactCapture.jpg)
+ ![Contact Page](./ContactCapture.JPG)
  # Example of Portfolio Page
- ![Portfolio Page](./PortfolioCapture.jpg)
+ ![Portfolio Page](./PortfolioCapture.JPG)
 
