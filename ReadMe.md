@@ -5,32 +5,33 @@ I wanted to focus on showcasing my personality and energy through my portfolio. 
 Create a portfolio with a navbar bar and responsive layout.
 
 # Requirments
--Functional, deployed application
+```
+Functional, deployed application
 
 
--GitHub repository with README describing the project
+GitHub repository with README describing the project
 
 
--Navbar must be consistent on each page.
+Navbar must be consistent on each page.
 
 
--Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
 
 
--All links must work.
+All links must work.
 
 
--Must use semantic html.
+Must use semantic html.
 
 
--Each page must have valid and correct HTML. (use a validation service)
+Each page must have valid and correct HTML. (use a validation service)
 
 
--Must contain your personalized information. (bio, name, images, links to social media, etc.)
+Must contain your personalized information. (bio, name, images, links to social media, etc.)
 
 
--Must properly utilize Bootstrap components and grid system.
-
+Must properly utilize Bootstrap components and grid system.
+```
 # Example of Home Page
 ![Home Page](./AboutMeCapture.JPG)
  # Example of Contact Page
@@ -38,3 +39,15 @@ Create a portfolio with a navbar bar and responsive layout.
  # Example of Portfolio Page
  ![Portfolio Page](./PortfolioCapture.JPG)
 
+ # Link to Deployed Application
+ [Click Here!](https://kaileesmith.github.io/My-Portfolio/)
+
+# Technologies Used
+```
+HMTL
+CSS
+Bootstrap
+JQuery
+```
+
+# MIT Licensed
