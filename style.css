@@ -18,11 +18,25 @@ body {
 margin-top: 175px;
   }
 
+.links{
+list-style-type: none;
+}
+.links li{
+  float: left;
+  display: inline !important;
+  margin-left: 25px !important
+  /* margin: 0px !important;
+  padding: 0px !important; */
+}
+
+.phone{
+  color: #C34C46;
+}
 
 /* contact html */
   .container{
-    height: auto;
     margin-top: 75px;
+    height: auto;
   }
 
 .card-header{
